@@ -6,3 +6,4 @@ gdown
 av
 Pillow
 numpy
+opencv-python
